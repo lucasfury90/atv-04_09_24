@@ -1,0 +1,32 @@
+form {
+    margin:70px 0px 500px;
+    width: 500px;
+    text-align: left;
+
+}
+label{
+    display: block;
+    margin: 10px 10px 10px 0;
+
+}
+input{
+    display: block;
+    height: 30px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.btn {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 120px;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1em;
+    
+}
